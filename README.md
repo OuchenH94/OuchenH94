@@ -1,15 +1,3 @@
-Parfait, j'ai tout ce qu'il faut. Voici le README complet pour le profil GitHub de Hamza, inspiré du style de l'image :
-
----
-
-## Ce qu'il faut faire
-
-**1. Créer le repo spécial GitHub**
-Sur GitHub, crée un nouveau repository avec exactement le même nom que ton username : `OuchenH94`. Coche "Add a README.md". C'est le repo magique qui affiche sur ton profil.
-
-**2. Remplace le contenu du README.md par ce code :**
-
-```markdown
 # Hi there 👋, I'm Hamza AITOUCHEN
 
 ### 🖥️ Front-End Developer | ⚡ WordPress & React Enthusiast
