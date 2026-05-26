@@ -62,17 +62,5 @@ Passionate about crafting user-friendly web experiences that make a difference. 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OuchenH94&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OuchenH94&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-```
-
----
-
-## Points importants à vérifier
-
-- **Username exact :** Le repo doit s'appeler `OuchenH94` (vérifie la casse sur ton profil GitHub)
-- **Stats GitHub :** Les widgets `github-readme-stats` et `streak-stats` fonctionnent automatiquement avec ton username, rien à configurer
-- **Badges :** Ils sont générés par `shields.io`, donc toujours à jour sans maintenance
-
-En 5 minutes c'est en ligne.
